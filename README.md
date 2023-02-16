@@ -1,2 +1,2 @@
-# firstcodeanu
-its my first code
+print("anubhav wil be the best coder in the world")
+
